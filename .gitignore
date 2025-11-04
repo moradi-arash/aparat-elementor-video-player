@@ -1,0 +1,19 @@
+# WordPress
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+apart-elementor-video-player.zip
+apart-elementor-video-player/
+
